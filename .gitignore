@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+Library/
+*.sln
+*.csproj
+Temp/
+obj/
+ios/
+Assets/OpenCVForUnity.meta
+Assets/OpenCVForUnity/
+Assets/VSCode.meta*
+Assets/VSCode/
